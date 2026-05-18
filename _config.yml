@@ -1,0 +1,12 @@
+title: Househeating Pulse Insights
+description: >-
+  Data-driven analysis of the European heat-pump market — EPREL listings,
+  country reports, refrigerant trends. Full analysis at househeating-pulse.com.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author:
+  name: Househeating Pulse
+  url: https://househeating-pulse.com
